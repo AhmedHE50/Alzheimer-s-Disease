@@ -1,5 +1,5 @@
 # Alzheimer-s-Disease
-Determine if the patient has the disease or not using Macine Learning Models.
+Determine if the patient has the disease or not using Machine Learning Models.
 # Models Used:
 - Decision Tree
 - Random Forest
